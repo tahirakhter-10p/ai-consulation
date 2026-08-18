@@ -1,0 +1,15 @@
+alembic<2.0,>=1.14
+asyncpg<1.0,>=0.30
+fastapi<1.0,>=0.115
+openai<2.0,>=1.0
+pydantic-settings<3.0,>=2.7
+sqlalchemy[asyncio]<3.0,>=2.0
+starlette==0.45.3
+uvicorn[standard]<1.0,>=0.32
+
+[dev]
+anyio<4.7,>=4.0
+httpx<1.0,>=0.28
+pytest<9.0,>=8.3
+pytest-asyncio<1.0,>=0.24
+ruff<1.0,>=0.8

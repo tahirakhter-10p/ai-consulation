@@ -1,0 +1,1 @@
+This directory contains Alembic migration scripts. It intentionally has no revisions during Milestone 1 because database models are introduced in Milestone 2.
